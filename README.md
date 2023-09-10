@@ -2,8 +2,7 @@ Hi there 👋 I'm Matt!
 
 This is my free time work, not my best work
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matthewjohn&theme=default) 
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matthewjohn&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=matthewjohn&theme=default)  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=matthewjohn&theme=default) 
 
 <!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=matthewjohn&theme=cobalt)](https://github-readme-stats.vercel.app/api?username=matthewjohn&theme=cobalt) -->
